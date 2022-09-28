@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.kpjunaid.service.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.064 s <<< FAILURE! - in com.kpjunaid.service.UserServiceTest
+com.kpjunaid.service.UserServiceTest  Time elapsed: 0.064 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
