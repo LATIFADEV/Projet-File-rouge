@@ -4,17 +4,17 @@
 
 ## App Features:
 
-- Users can create new account.
-- Users can follow/unfollow other users.
-- Users can create/update/delete new posts.
-- Users can like/unlike posts.
-- Users can share posts.
-- Posts can have text content, an image and tags.
-- Users will have timeline which will contain posts from following users.
-- Users can update profile info/email/password.
-- Users can verify their email addresses.
-- Users can reset their passwords.
-- Users will receive notifications when their posts are liked/shared/commented on.
+Les utilisateurs peuvent créer un nouveau compte.
+Les utilisateurs peuvent suivre/ne plus suivre d'autres utilisateurs.
+Les utilisateurs peuvent créer/modifier/supprimer de nouveaux messages.
+Les utilisateurs peuvent aimer/ne pas aimer les publications.
+Les utilisateurs peuvent partager des messages.
+Les messages peuvent avoir un contenu textuel, une image et des balises.
+Les utilisateurs peuvent modifier les informations de profil/email/mot de passe.
+Les utilisateurs peuvent vérifier leurs adresses e-mail.
+Les utilisateurs peuvent réinitialiser leurs mots de passe.
+Les utilisateurs recevront des notifications lorsque leurs publications seront aimées/partagées/commentées![image](https://user-images.githubusercontent.com/105933668/192764325-a5488ab9-305b-4e36-962d-7c906bbb50e9.png)
+
 
 ## Technologies Used:
 
